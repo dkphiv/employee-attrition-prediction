@@ -1,0 +1,9 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporäre Dateien
+*.~lock.*
+
+# Python
+__pycache__/
+*.pyc
